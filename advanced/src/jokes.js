@@ -1,5 +1,3 @@
-import "babel-core/register";
-import "babel-polyfill";
 import JokesApi from "./api";
 
 function getJokes() {
