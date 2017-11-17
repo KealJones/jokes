@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "node": "7.10.0",
   "scripts": {
-    "build": "babel src -d dist"
+    "build": "babel advanced/src -d advanced/dist"
   },
   "dependencies": {
     "node-fetch": "^1.7.3"
